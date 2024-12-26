@@ -13,6 +13,10 @@ https://foodee.namtech.me/
 Tài khoản: ```admin``` 
 Mật khẩu: ```1```
 
+## Video demo
+
+https://youtu.be/6BGAeb7-Uqc?si=9xB7bJ3X0_8nksjU
+
 ## API documentation
 
 https://www.postman.com/technical-candidate-72354826/foodee-documentation/collection/mfylrb2/foodee-restaurant-api
