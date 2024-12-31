@@ -634,6 +634,7 @@ Nhận thấy những bất cập đó, dự án "Foodee Restaurant: Website Qu�
 - **Thống kê doanh thu**: Hỗ trợ báo cáo doanh thu chi tiết và trực quan.
 - **Phân quyền**: Quản lý quyền truy cập cho các nhân viên.
 - **Bot tele tự động**: Tự động gửi tin nhắn đến nhân viên khi có đơn hàng hoặc khách hàng cần trợ giúp.
+- **App Quản lý trên thiết bị Android**: Admin dễ dàng quản lý nhà hàng của mình thông qua ứng dụng trên điện thoại di động.
 
 ## Công nghệ sử dụng
 - **Frontend**: React.js
