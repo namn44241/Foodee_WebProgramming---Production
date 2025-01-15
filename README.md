@@ -643,6 +643,8 @@ Nhận thấy những bất cập đó, dự án "Foodee Restaurant: Website Qu�
 - **Khác**: 
   - Triển khai trên nền tảng web
   - Tích hợp API để xử lý thanh toán và các tính năng nâng cao
+![image](https://github.com/user-attachments/assets/925af9c8-acbc-4492-a179-963e3130a1ba)
+
 
 ## Kiến trúc hệ thống
 Dự án được xây dựng theo mô hình MVC:
